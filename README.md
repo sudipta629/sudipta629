@@ -1,152 +1,243 @@
+<!-- =========================================================
+     SUDIPTA BISWAS — GitHub Profile README
+     Username: sudipta629
+     Designed for GitHub Markdown rendering
+========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:050816,45:111827,100:1e1b4b&text=SUDIPTA%20BISWAS&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=BCA%20(AI%20%26%20ML)%20%2F%2F%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Sudipta Biswas — BCA AI ML Student and Full Stack Developer"/>
+
+<br/>
+
+<a href="https://github.com/sudipta629">
+  <img src="https://img.shields.io/badge/GitHub-sudipta629-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:sudipta6295.ss@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/sudipto5147">
+  <img src="https://img.shields.io/badge/Instagram-sudipto5147-0f172a?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/c/sudipto70">
+  <img src="https://img.shields.io/badge/YouTube-sudipto70-0f172a?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://discord.gg/sudiptabiswas0305">
+  <img src="https://img.shields.io/badge/Discord-Connect-0f172a?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sudipta629&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
 
 <table>
 <tr>
-<td width="28%" align="center" valign="top">
+<td width="34%" valign="top">
 
-<img src="./assets/profile.jpg" width="170" alt="Sudipta Biswas"/>
+## ◈ IDENTITY
 
-<br><br>
+<img src="./assets/profile.jpg" width="100%" alt="Sudipta Biswas"/>
 
-### `@sudipta629`
+### `sudo whoami`
 
-`BCA (AI & ML)`  
-`Full Stack Developer`
+```text
+NAME       Sudipta Biswas
+HANDLE     @sudipta629
+ROLE       Full Stack Developer
+EDUCATION  BCA (AI & ML)
+LOCATION   India
+STATUS     Learning / Building
+```
 
-📍 India  
-📧 sudipta6295.ss@gmail.com
+### `CONTACT`
 
-<br>
-
-<a href="https://github.com/sudipta629"><img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<a href="https://instagram.com/sudipto5147"><img src="https://img.shields.io/badge/INSTAGRAM-050816?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-<a href="https://www.youtube.com/c/sudipto70"><img src="https://img.shields.io/badge/YOUTUBE-050816?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+- 📧 **sudipta6295.ss@gmail.com**
+- 💻 **github.com/sudipta629**
+- 📸 **instagram.com/sudipto5147**
+- ▶️ **youtube.com/c/sudipto70**
+- 💬 **Discord**
 
 </td>
-<td width="72%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&vCenter=true&width=650&lines=SYSTEM.INFO;Building+real-world+software;Learning+AI+%2F+ML+%2F+DSA;Python+%7C+React+%7C+Flask+%7C+Firebase" alt="System info"/>
+<td width="66%" valign="top">
 
-### `> system.info`
+## ◈ SYSTEM.INFO
 
-| FIELD | VALUE |
-|---|---|
-| **Subject** | BCA (Artificial Intelligence & Machine Learning) |
-| **Role** | Full Stack Developer |
-| **Origin** | India 🇮🇳 |
-| **Status** | `LEARNING // BUILDING // SHIPPING` |
-| **Focus** | AI • ML • DSA • Web Development |
-| **Mindset** | Learn → Build → Debug → Improve |
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ SYSTEM.INFO                                                  │
+├──────────────────────────────────────────────────────────────┤
+│ Subject        : Sudipta Biswas                             │
+│ Handle         : sudipta629                                 │
+│ Role           : Full Stack Developer                        │
+│ Education      : BCA (AI & ML)                              │
+│ Origin         : India                                      │
+│ Status         : BUILDING                                   │
+│ Focus          : AI / ML / DSA / WEB                        │
+└──────────────────────────────────────────────────────────────┘
+```
 
-### `> toolchain`
+### `ABOUT.ME`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java,react,vite,tailwind,flask,nodejs,mysql,mongodb,postgresql,firebase,docker,git,github,vscode&perline=9&theme=dark" alt="Tech stack"/>
+I'm a **BCA (AI & ML) student and Full Stack Developer from India**.
+
+I enjoy turning ideas into working software, learning how systems work under the hood, and building practical projects with modern web technologies.
+
+My current path combines:
+
+**Programming → DSA → Full Stack → Backend → AI / ML**
+
+### `CURRENTLY`
+
+- 🧠 Artificial Intelligence & Machine Learning
+- 📚 Data Structures & Algorithms
+- ⚛️ React & modern JavaScript
+- 🐍 Python & Flask
+- 🗄️ SQL / MongoDB / Firebase
+- 🐳 Git, GitHub & Docker
+- 🏗️ Backend architecture & system design
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<div align="center">
-
-## `CORE.LANG`
-
-<img src="https://img.shields.io/badge/C-0b1220?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0b1220?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Java-0b1220?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-
-## `CORE.FRONTEND`
-
-<img src="https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-0b1220?style=for-the-badge&logo=vite&logoColor=646CFF"/>
-<img src="https://img.shields.io/badge/Tailwind-0b1220?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-
-## `CORE.BACKEND`
-
-<img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/Flask-0b1220?style=for-the-badge&logo=flask&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/REST%20API-0b1220?style=for-the-badge&logo=fastapi&logoColor=58A6FF"/>
-
-## `CORE.DATABASE`
-
-<img src="https://img.shields.io/badge/MySQL-0b1220?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/MongoDB-0b1220?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Firebase-0b1220?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-
-## `CORE.INFRA`
-
-<img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Docker-0b1220?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/VS%20Code-0b1220?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-
-</div>
-
----
-
-## `GITHUB.STATUS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudipta629&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=050816&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6" height="180" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipta629&layout=compact&hide_border=true&langs_count=8&bg_color=050816&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Top languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=sudipta629&theme=github-dark&hide_border=true&background=050816&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF" width="70%" alt="GitHub streak"/>
-
-</div>
-
----
-
-## `CONTRIBUTIONS.LOG`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipta629&bg_color=050816&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
-
-</div>
-
----
-
-## `PROJECTS.LIST`
+## ◈ TOOLCHAIN
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01 // CONCERT`
+### `CORE.LANG`
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java" alt="Languages"/>
+
+</td>
+<td width="50%" valign="top">
+
+### `CORE.FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap" alt="Frontend"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `CORE.BACKEND`
+
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs" alt="Backend"/>
+
+</td>
+<td width="50%" valign="top">
+
+### `CORE.DATABASE`
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" alt="Databases"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `CORE.INFRA`
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Infrastructure"/>
+
+</td>
+<td width="50%" valign="top">
+
+### `FOCUS`
+
+```text
+AI / ML       ███████████░░░
+DSA           ████████████░
+Frontend      █████████████
+Backend       ████████████░
+Databases     ███████████░░
+System Design ████████░░░░░
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ GITHUB.STATUS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sudipta629&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" height="180" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipta629&layout=compact&hide_border=true&langs_count=8&theme=github_dark" height="180" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sudipta629&theme=github-dark&hide_border=true&border_radius=12" width="72%" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## ◈ ACTIVITY.LOG
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipta629&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## ◈ ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sudipta629&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## ◈ PROJECTS.LIST
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01 / CONCERT`
 
 **Repository:** `sudipta629/Concert`
 
-A project from the existing GitHub portfolio. More projects can be added here as you build them.
+A project from the current development journey.
 
-<a href="https://github.com/sudipta629/Concert"><img src="https://img.shields.io/badge/OPEN%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/sudipta629/Concert">
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-38bdf8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### `02 // MORE BUILDING`
+### `02 / MORE INCOMING`
 
-New full-stack, AI/ML and backend projects will be added here.
+Building and refining more real-world applications across:
 
-**Current focus:**
+- Full Stack Web
+- Python / Flask
+- React
+- AI / ML
+- DSA
 
-`React` `Python` `Flask` `Firebase` `DSA` `AI/ML`
+<a href="https://github.com/sudipta629?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOS-818cf8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -154,41 +245,67 @@ New full-stack, AI/ML and backend projects will be added here.
 
 ---
 
-## `CURRENT.MISSION`
+## ◈ DEVELOPMENT.PROTOCOL
 
 ```text
-[■■■■■■■■■■■■■■■■■■□□] Programming Fundamentals
-[■■■■■■■■■■■■■■□□□□□□] Full Stack Development
-[■■■■■■■■■■■■□□□□□□□] Python / Flask Backend
-[■■■■■■■■■■■□□□□□□□□□] Data Structures & Algorithms
-[■■■■■■■■■■□□□□□□□□□□] Artificial Intelligence
-[■■■■■■■■□□□□□□□□□□□□] Machine Learning
-[■■■■■■□□□□□□□□□□□□□] System Design
-[■■■■□□□□□□□□□□□□□□□] Open Source
+[01] Learn the fundamentals
+        ↓
+[02] Solve problems
+        ↓
+[03] Build real projects
+        ↓
+[04] Break things
+        ↓
+[05] Debug relentlessly
+        ↓
+[06] Improve the architecture
+        ↓
+[07] Ship
+        ↓
+[08] Repeat
 ```
 
 ---
 
+## ◈ COLLABORATION
+
+I'm open to collaborating on:
+
+- 🤖 AI & Machine Learning
+- 🌐 Full Stack Applications
+- ⚛️ React Projects
+- 🐍 Python / Flask Projects
+- 📚 DSA & Problem Solving
+- 🌍 Open Source Projects
+
 <div align="center">
 
-## `CONNECT.NODE`
+<a href="mailto:sudipta6295.ss@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-38bdf8?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
 
-<a href="https://github.com/sudipta629"><img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:sudipta6295.ss@gmail.com"><img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://instagram.com/sudipto5147"><img src="https://img.shields.io/badge/Instagram-050816?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-<a href="https://www.youtube.com/c/sudipto70"><img src="https://img.shields.io/badge/YouTube-050816?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
-<a href="https://discord.gg/sudiptabiswas0305"><img src="https://img.shields.io/badge/Discord-050816?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
+</div>
 
-<br><br>
+---
 
-<img src="https://komarev.com/ghpvc/?username=sudipta629&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views"/>
+## ◈ CONTRIBUTION.SNAKE
 
-<br><br>
+<div align="center">
 
-`SYSTEM.STATUS: ONLINE` &nbsp; `BUILD: ACTIVE` &nbsp; `MODE: LEARNING`
+<img src="https://raw.githubusercontent.com/sudipta629/sudipta629/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
-<br><br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1e1b4b,50:0f172a,100:050816" width="100%"/>
+---
+
+<div align="center">
+
+<img src="./assets/footer.svg" width="100%" alt="Code Learn Build Repeat"/>
+
+<br/><br/>
+
+<a href="https://github.com/sudipta629?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>

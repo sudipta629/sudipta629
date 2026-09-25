@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#020617"/>
+    <stop offset=".48" stop-color="#0b1224"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="n" x1="0" x2="1">
+    <stop offset="0" stop-color="#38bdf8"/>
+    <stop offset=".5" stop-color="#818cf8"/>
+    <stop offset="1" stop-color="#c084fc"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="250" rx="24" fill="url(#g)"/>
+<rect x="18" y="18" width="1164" height="214" rx="18" fill="none" stroke="#334155"/>
+<path d="M25 210 C180 120 250 225 380 150 S610 75 760 145 S980 235 1175 95" fill="none" stroke="url(#n)" stroke-width="2" opacity=".55" filter="url(#glow)"/>
+<circle cx="1020" cy="58" r="3" fill="#38bdf8"/><circle cx="1050" cy="80" r="2" fill="#c084fc"/><circle cx="1080" cy="48" r="2" fill="#818cf8"/>
+<text x="70" y="83" fill="#94a3b8" font-family="monospace" font-size="14" letter-spacing="3">PROFILE / SUDIPTA629</text>
+<text x="70" y="133" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">Sudipta Biswas</text>
+<text x="72" y="169" fill="#7dd3fc" font-family="monospace" font-size="18">BCA (AI &amp; ML) • Full Stack Developer</text>
+<text x="72" y="200" fill="#64748b" font-family="monospace" font-size="13">build • learn • debug • repeat</text>
+<rect x="1015" y="165" width="105" height="28" rx="14" fill="#0f172a" stroke="#38bdf8"/>
+<text x="1067" y="184" text-anchor="middle" fill="#7dd3fc" font-family="monospace" font-size="12">ONLINE</text>
+</svg>
